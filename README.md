@@ -1,7 +1,6 @@
 PostgreSQLのダミーデータを作成します。
 
-以下のリポジトリにあるダミーデータを使っています。
-https://github.com/datacharmer/test_db
+[test_db](https://github.com/datacharmer/test_db) にあるダミーデータを使っています。
 
 
 ## 使い方
